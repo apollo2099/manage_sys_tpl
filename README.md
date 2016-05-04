@@ -14,6 +14,7 @@ CSS框架：Admin ACE<br/>
 测试地址：http://localhost:8080/manage_sys_tpl/<br/>
 测试账户：admin/1<br/>
 (1)登录主界面<br/>
-
+![输入图片说明](http://git.oschina.net/uploads/images/2016/0504/231050_a13c831b_56546.png "在这里输入图片标题")
 
 (2)系统主界面:<br/>
+![输入图片说明](http://git.oschina.net/uploads/images/2016/0504/231110_be5c2826_56546.png "在这里输入图片标题")
